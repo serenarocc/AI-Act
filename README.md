@@ -1,7 +1,7 @@
 # The AI Compliance Frontier: Seminar Report
 
 ## Overview
-This repository contains a technical report summarizing the insights from the seminar held on March 6, 2026, at **Politecnico di Torino**. 
+This repository contains a report summarizing the insights from the seminar held on March 6, 2026, at **Politecnico di Torino**. 
 
 The seminar, titled *"The AI Compliance Frontier: Balancing Innovation, Risk, and Data Protection,"* was conducted by experts from **KPMG**.
 
